@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: white;
+  font: 13pt tahoma, verdana, arial, helvetica, sans-serif;
+  text-align: center;
+}
+
+
+
+canvas {
+  border: 1px solid white;
+}
